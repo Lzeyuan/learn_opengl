@@ -1,0 +1,11 @@
+[
+{
+  "directory": "d:\\Development\\Code\\Cpp\\learn_00_start\\xmake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/O2", "/fp:fast", "/std:c++17", "/I3rd\\glad\\include", "/DGLFW_INCLUDE_NONE", "/EHsc", "/IC:\\Users\\10465\\AppData\\Local\\.xmake\\packages\\g\\glfw\\3.3.8\\aa051766d5a3492eba902e8856089e1f\\include", "/DNDEBUG", "/Fobuild\\.objs\\opengl_xmake\\windows\\x64\\release\\src\\main.cpp.obj", "src\\main.cpp"],
+  "file": "src\\main.cpp"
+},
+{
+  "directory": "d:\\Development\\Code\\Cpp\\learn_00_start\\xmake",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/O2", "/fp:fast", "/I3rd\\glad\\include", "/EHsc", "/DNDEBUG", "/Fobuild\\.objs\\glad\\windows\\x64\\release\\3rd\\glad\\src\\glad.c.obj", "3rd\\glad\\src\\glad.c"],
+  "file": "3rd\\glad\\src\\glad.c"
+}]
